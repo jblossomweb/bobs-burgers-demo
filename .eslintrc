@@ -1,0 +1,59 @@
+{
+  "extends": [
+    "react-app",
+    "react-app/jest",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:storybook/recommended",
+    "airbnb",
+    "prettier"
+  ],
+  "plugins": [
+    "@typescript-eslint",
+    "import",
+    "prettier",
+    "jest",
+    "testing-library",
+    "storybook"
+  ],
+  "env": { "jest/globals": true },
+  "overrides": [
+    {
+      "extends": ["plugin:testing-library/react"],
+      "files": ["**/__tests__/**/*.[jt]s?(x)", "**/?(*.)+(spec|test).[jt]s?(x)"]
+    },
+    {
+      "files": ["**/*.stories.*"],
+      "rules": {
+        "import/no-anonymous-default-export": "off"
+      }
+    }
+  ],
+  "rules": {
+    "prettier/prettier": ["error"],
+    "@typescript-eslint/consistent-type-imports": [
+      "error",
+      { "prefer": "type-imports" }
+    ],
+    "import/extensions": [
+      "error",
+      "never",
+      { "css": "always", "json": "always", "svg": "always" }
+    ],
+    "import/no-extraneous-dependencies": "off",
+    "no-restricted-exports": "off",
+    "react/require-default-props": "off",
+    "react/jsx-filename-extension": [
+      "error",
+      { "extensions": [".jsx", ".tsx"] }
+    ],
+    "react/jsx-props-no-spreading": "off",
+    "react/function-component-definition": "off",
+    "semi": ["error", "never"],
+    "arrow-body-style": ["error", "as-needed"]
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript": {}
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.container {
+  @apply text-center;
+}
+
+.header {
+  @apply min-h-screen
+    flex
+    flex-col
+    items-center
+    justify-center;
+
+  font-size: calc(8px + 2vmin);
+}
