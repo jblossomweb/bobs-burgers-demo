@@ -1,0 +1,7 @@
+.bounce {
+  @apply animate-bounce;
+}
+
+.spin {
+  @apply animate-spin;
+}

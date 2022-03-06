@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/atoms/Button stories Hollow matches markup snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="button hollow"
+    type="button"
+  >
+    Sample Button
+  </button>
+</DocumentFragment>
+`;
+
+exports[`app/components/atoms/Button stories Red matches markup snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="button red"
+    type="button"
+  >
+    Sample Button
+  </button>
+</DocumentFragment>
+`;
+
+exports[`app/components/atoms/Button stories RedHollow matches markup snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="button hollow red"
+    type="button"
+  >
+    Sample Button
+  </button>
+</DocumentFragment>
+`;
+
+exports[`app/components/atoms/Button stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="button"
+    type="button"
+  >
+    Sample Button
+  </button>
+</DocumentFragment>
+`;
+
+exports[`app/components/atoms/Button stories Yellow matches markup snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="button yellow"
+    type="button"
+  >
+    Sample Button
+  </button>
+</DocumentFragment>
+`;
+
+exports[`app/components/atoms/Button stories YellowHollow matches markup snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="button hollow yellow"
+    type="button"
+  >
+    Sample Button
+  </button>
+</DocumentFragment>
+`;

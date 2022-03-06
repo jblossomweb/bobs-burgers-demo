@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/atoms/Avatar stories Image matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="avatar"
+    style="background-color: rgb(97, 218, 251);"
+  >
+    <img
+      src="https://picsum.photos/80/80"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`app/components/atoms/Avatar stories Letter matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="avatar"
+    style="background-color: rgb(97, 218, 251);"
+  >
+    <div
+      style="width: 80px; height: 80px;"
+    >
+      JB
+    </div>
+  </div>
+</DocumentFragment>
+`;
