@@ -1,0 +1,70 @@
+.nav {
+  @apply px-6 py-6
+    sm:py-0
+    flex flex-wrap
+    items-center
+    justify-between 
+    bg-palette-light-blue;
+}
+
+.left {
+  @apply mr-6
+    flex
+    items-center
+    flex-shrink-0;
+}
+
+.logo {
+  @apply w-36;
+}
+
+.links {
+  @apply w-full mt-4
+    hidden
+    transition-all
+    flex-grow
+    sm:mt-0
+    sm:flex
+    sm:items-center
+    sm:w-auto;
+}
+
+.links.mobile-open {
+  @apply block transition-all;
+}
+
+.links .grow {
+  @apply text-base sm:flex-grow;
+}
+
+.link {
+  @apply block
+    leading-10
+    mt-0 mr-2
+    sm:p-4
+    sm:inline-block
+    sm:mt-0
+    font-bold
+    text-palette-dark-blue
+    hover:text-white
+    hover:no-underline;
+}
+
+.link.active {
+  @apply sm:bg-palette-dark-blue
+    text-white;
+}
+
+.toggle-wrapper {
+  @apply block sm:hidden;
+}
+
+.toggle-button {
+  @apply flex items-center
+    px-3 py-2
+    border rounded
+    text-palette-dark-blue
+    border-palette-dark-blue
+    hover:text-white
+    hover:border-white;
+}
