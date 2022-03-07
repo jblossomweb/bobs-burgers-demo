@@ -1,0 +1,26 @@
+{
+  "id": 47,
+  "name": "Robert \"Bob\" Belcher, Jr.",
+  "image": "https://bobsburgers-api.herokuapp.com/images/characters/47.jpg",
+  "gender": "Male",
+  "age": "46",
+  "occupation": "Chef/owner and operator of Bob's Burgers",
+  "relatives": [
+    "https://bobsburgers-api.herokuapp.com/characters/275",
+    "https://bobsburgers-api.herokuapp.com/characters/170",
+    "https://bobsburgers-api.herokuapp.com/characters/483",
+    "https://bobsburgers-api.herokuapp.com/characters/280",
+    "https://bobsburgers-api.herokuapp.com/characters/180",
+    "https://bobsburgers-api.herokuapp.com/characters/5",
+    "https://bobsburgers-api.herokuapp.com/characters/169",
+    "https://bobsburgers-api.herokuapp.com/characters/45",
+    "Mrs. Belcher",
+    "Ernest Lombard",
+    "https://bobsburgers-api.herokuapp.com/characters/500",
+    "Burt",
+    "Marie"
+  ],
+  "firstEpisode": "\"Human Flesh\"",
+  "voicedBy": "H. Jon Benjamin",
+  "url": "https://bobsburgers-api.herokuapp.com/characters/47"
+}

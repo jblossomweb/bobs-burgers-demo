@@ -1,0 +1,128 @@
+[
+  {
+    "id": 5,
+    "name": "Al",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/5.jpg",
+    "gender": "Male",
+    "age": "70s",
+    "occupation": "Retired",
+    "relatives": [
+      "https://bobsburgers-api.herokuapp.com/characters/180",
+      "https://bobsburgers-api.herokuapp.com/characters/275",
+      "https://bobsburgers-api.herokuapp.com/characters/501",
+      "https://bobsburgers-api.herokuapp.com/characters/169",
+      "https://bobsburgers-api.herokuapp.com/characters/47",
+      "https://bobsburgers-api.herokuapp.com/characters/483",
+      "https://bobsburgers-api.herokuapp.com/characters/170",
+      "https://bobsburgers-api.herokuapp.com/characters/280",
+      "Burt"
+    ],
+    "firstEpisode": "\"Crawl Space\"",
+    "voicedBy": "H. Jon Benjamin (\"Crawl Space\"), Sam Seder (\"It Snakes a Village\")",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/5"
+  },
+  {
+    "id": 45,
+    "name": "Robert \"Big Bob\" Belcher, Sr.",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/45.jpg",
+    "gender": "Male",
+    "age": "80s",
+    "hairColor": "Gray",
+    "occupation": "Owner of Big Bob's Diner",
+    "relatives": [
+      "https://bobsburgers-api.herokuapp.com/characters/47",
+      "https://bobsburgers-api.herokuapp.com/characters/275",
+      "https://bobsburgers-api.herokuapp.com/characters/483",
+      "https://bobsburgers-api.herokuapp.com/characters/170",
+      "https://bobsburgers-api.herokuapp.com/characters/280",
+      "Mrs. Belcher",
+      "Ernest Lombard",
+      "https://bobsburgers-api.herokuapp.com/characters/500"
+    ],
+    "voicedBy": "H. Jon Benjamin (\"Bob Fires the Kids\"), Bill Hader (\"Father of the Bob\")",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/45"
+  },
+  {
+    "id": 169,
+    "name": "Gerald G. Garrison",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/169.jpg",
+    "gender": "Male",
+    "hairColor": "Black",
+    "occupation": "Accountant at See You Later Calculator Accounting",
+    "firstEpisode": "\"Large Brother, Where Fart Thou?\"",
+    "voicedBy": "Erik Griffin",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/169"
+  },
+  {
+    "id": 170,
+    "name": "Gertie Humikowski",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/170.jpg",
+    "gender": "Female",
+    "hairColor": "Red",
+    "occupation": "Student",
+    "firstEpisode": "\"Just One of the Boyz 4 Now for Now\"",
+    "voicedBy": "H. Jon Benjamin",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/170"
+  },
+  {
+    "id": 180,
+    "name": "Goldie",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/180.jpg",
+    "gender": "Female",
+    "hairColor": "Brown",
+    "occupation": "Biker",
+    "relatives": ["Unnamed child"],
+    "firstEpisode": "\"Roamin' Bob-iday\"",
+    "voicedBy": "Brooke Dillman",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/180"
+  },
+  {
+    "id": 275,
+    "name": "Nurse Liz",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/275.jpg",
+    "gender": "Female",
+    "age": "20-30s",
+    "hairColor": "Ginger",
+    "occupation": "Wagstaff School Nurse",
+    "firstEpisode": "\"Lice Things Are Lice\"",
+    "voicedBy": "Samantha Bee",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/275"
+  },
+  {
+    "id": 280,
+    "name": "Mall Santa",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/280.jpg",
+    "gender": "Male",
+    "age": "60-70s",
+    "hairColor": "Gray",
+    "occupation": "Santa Performer at OMG Mall",
+    "firstEpisode": "\"Nice-Capades\"",
+    "voicedBy": "Henry Winkler",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/280"
+  },
+  {
+    "id": 483,
+    "name": "Trev",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/483.jpg",
+    "gender": "Male",
+    "age": "20 - 30s",
+    "hairColor": "Black",
+    "occupation": "Bartender at Jimmy Pesto's Pizzeria",
+    "firstEpisode": "\"Sheesh! Cab, Bob?\"",
+    "voicedBy": "David Herman",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/483"
+  },
+  {
+    "id": 500,
+    "name": "Zander",
+    "image": "https://bobsburgers-api.herokuapp.com/images/characters/500.jpg",
+    "gender": "Male",
+    "age": "10",
+    "hairColor": "Brown",
+    "occupation": "Student",
+    "relatives": ["https://bobsburgers-api.herokuapp.com/characters/465"],
+    "firstEpisode": "\"The Cook, The Steve, The Gayle, & Her Lover\"",
+    "voicedBy": "H. Jon Benjamin",
+    "url": "https://bobsburgers-api.herokuapp.com/characters/500"
+  }
+]
