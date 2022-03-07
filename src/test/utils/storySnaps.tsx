@@ -1,4 +1,5 @@
 import React from 'react'
+import { MemoryRouter } from 'react-router-dom'
 import type { ComponentStory, ComponentMeta } from '@storybook/react'
 import { render, cleanup } from '@testing-library/react'
 
@@ -24,7 +25,11 @@ const storySnaps = (stories: Stories | Meta) => {
 
         it('matches markup snapshot', () => {
           const { args } = (stories as Stories)[key]
-          const { asFragment } = render(<Component {...args} />)
+          const { asFragment } = render(
+            <MemoryRouter>
+              <Component {...args} />
+            </MemoryRouter>
+          )
           expect(asFragment()).toMatchSnapshot()
         })
       })
