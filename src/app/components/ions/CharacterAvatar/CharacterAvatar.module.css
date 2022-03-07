@@ -1,0 +1,22 @@
+.avatar {
+  @apply border-2 border-palette-dark-blue my-4;
+}
+
+.avatar:hover {
+  @apply border-palette-light-blue;
+}
+
+.avatar:active {
+  @apply translate-y-0.5;
+}
+
+.wrapper {
+  overflow: hidden;
+  @apply w-28 h-28 bg-white
+    flex flex-wrap flex-row
+    items-center justify-center;
+}
+
+.image {
+  @apply w-full;
+}

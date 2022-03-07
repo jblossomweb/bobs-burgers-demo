@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/ions/CharacterAvatar stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="avatar avatar"
+    style="background-color: rgb(97, 218, 251);"
+  >
+    <div
+      class="wrapper"
+    >
+      <a
+        href="/characters/47"
+      >
+        <img
+          alt="Robert \\"Bob\\" Belcher, Jr."
+          class="image"
+          src="https://bobsburgers-api.herokuapp.com/images/characters/47.jpg"
+        />
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
