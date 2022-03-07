@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/molecules/CharacterCard stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    style="width: 300px;"
+  >
+    <div
+      class="card card"
+    >
+      <div
+        class="body"
+      >
+        <h2
+          class="title"
+        >
+          Robert "Bob" Belcher, Jr.
+        </h2>
+        <div
+          class="content"
+        >
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/47"
+              >
+                <img
+                  alt="Robert \\"Bob\\" Belcher, Jr."
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/47.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <p
+            class="info"
+          >
+            Chef/owner and operator of Bob's Burgers
+          </p>
+        </div>
+      </div>
+      <a
+        href="/characters/47"
+      >
+        <button
+          class="button button"
+          type="button"
+        >
+          Details...
+        </button>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
