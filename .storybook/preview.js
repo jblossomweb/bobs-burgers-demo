@@ -1,4 +1,5 @@
 import 'app/global.css'
+import { MemoryRouter } from 'react-router-dom'
 import { jsxDecorator } from 'storybook-addon-jsx'
 
 export const parameters = {
@@ -14,4 +15,11 @@ export const parameters = {
   },
 }
 
-export const decorators = [jsxDecorator]
+export const decorators = [
+  jsxDecorator,
+  (Story) => (
+    <MemoryRouter>
+      <Story />
+    </MemoryRouter>
+  ),
+]
