@@ -18,6 +18,22 @@
   @apply border-white text-white;
 }
 
+.button.dark {
+  @apply bg-palette-dark-blue text-white;
+}
+
+.button.dark:hover {
+  @apply bg-palette-light-blue;
+}
+
+.button.dark.hollow {
+  @apply bg-transparent border-palette-dark-blue text-palette-dark-blue;
+}
+
+.button.dark.hollow:hover {
+  @apply border-palette-light-blue text-palette-light-blue;
+}
+
 .button.yellow {
   @apply bg-amber-500 text-black;
 }

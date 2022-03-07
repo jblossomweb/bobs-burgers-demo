@@ -3,6 +3,7 @@ import clsx from 'clsx'
 import style from './Button.module.css'
 
 export interface Props {
+  dark?: boolean
   hollow?: boolean
   yellow?: boolean
   red?: boolean
@@ -12,6 +13,7 @@ export interface Props {
 }
 
 const Button: React.FC<Props> = ({
+  dark = false,
   hollow = false,
   yellow = false,
   red = false,
@@ -23,6 +25,7 @@ const Button: React.FC<Props> = ({
     type="button"
     className={clsx(
       style.button,
+      { [style.dark]: dark },
       { [style.hollow]: hollow },
       { [style.yellow]: yellow },
       { [style.red]: red },

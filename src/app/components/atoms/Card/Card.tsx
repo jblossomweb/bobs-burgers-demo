@@ -6,6 +6,7 @@ export interface Props {
   title?: string
   children?: React.ReactNode
   head?: React.ReactNode
+  foot?: React.ReactNode
   width?: number
   className?: React.HTMLAttributes<HTMLElement>['className']
 }
@@ -18,6 +19,7 @@ const Card: React.FC<Props> = ({
   children,
   width,
   head,
+  foot,
   className = '',
 }) => (
   <div className={style.container} style={widthStyle(width)}>
@@ -25,10 +27,11 @@ const Card: React.FC<Props> = ({
       {head}
       {!!(title || children) && (
         <div className={style.body}>
-          {!!title && <h2 className={style.title}>{title.toLowerCase()}</h2>}
-          {!!children && <p className={style.content}>{children}</p>}
+          {!!title && <h2 className={style.title}>{title}</h2>}
+          {!!children && <div className={style.content}>{children}</div>}
         </div>
       )}
+      {foot}
     </div>
   </div>
 )

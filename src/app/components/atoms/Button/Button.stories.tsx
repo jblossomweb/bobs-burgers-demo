@@ -26,6 +26,12 @@ Hollow.args = {
   hollow: true,
 }
 
+export const Dark = Template.bind({})
+Dark.args = {
+  ...Sample.args,
+  dark: true,
+}
+
 export const Yellow = Template.bind({})
 Yellow.args = {
   ...Sample.args,
@@ -36,6 +42,13 @@ export const Red = Template.bind({})
 Red.args = {
   ...Sample.args,
   red: true,
+}
+
+export const DarkHollow = Template.bind({})
+DarkHollow.args = {
+  ...Sample.args,
+  dark: true,
+  hollow: true,
 }
 
 export const YellowHollow = Template.bind({})

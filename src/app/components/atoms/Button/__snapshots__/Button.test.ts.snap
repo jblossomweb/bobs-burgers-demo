@@ -1,5 +1,27 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`app/components/atoms/Button stories Dark matches markup snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="button dark"
+    type="button"
+  >
+    Sample Button
+  </button>
+</DocumentFragment>
+`;
+
+exports[`app/components/atoms/Button stories DarkHollow matches markup snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="button dark hollow"
+    type="button"
+  >
+    Sample Button
+  </button>
+</DocumentFragment>
+`;
+
 exports[`app/components/atoms/Button stories Hollow matches markup snapshot 1`] = `
 <DocumentFragment>
   <button

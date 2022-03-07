@@ -1,14 +1,13 @@
 .container {
-  /* max-width: 80vw !important; */
 }
 
 .card {
   @apply min-w-0 rounded-lg ring-1 ring-black ring-opacity-5 overflow-hidden;
-  @apply bg-white;
+  @apply bg-white flex flex-col justify-between;
 }
 
 .body {
-  @apply p-4;
+  @apply p-4 h-2/3;
 }
 
 .image {
@@ -16,9 +15,9 @@
 }
 
 .title {
-  @apply mb-4 font-semibold text-gray-800 text-2xl;
+  @apply mb-4 font-semibold text-gray-800 text-xl;
 }
 
 .content {
-  @apply text-gray-600;
+  @apply text-gray-600 text-sm;
 }
