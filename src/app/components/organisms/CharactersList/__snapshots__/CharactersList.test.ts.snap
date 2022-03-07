@@ -1,0 +1,505 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/organisms/CharactersList stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="list"
+  >
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Al
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/5"
+                >
+                  <img
+                    alt="Al"
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/5.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Retired
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/5"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Robert "Big Bob" Belcher, Sr.
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/45"
+                >
+                  <img
+                    alt="Robert \\"Big Bob\\" Belcher, Sr."
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/45.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Owner of Big Bob's Diner
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/45"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Gerald G. Garrison
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/169"
+                >
+                  <img
+                    alt="Gerald G. Garrison"
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/169.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Accountant at See You Later Calculator Accounting
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/169"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Gertie Humikowski
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/170"
+                >
+                  <img
+                    alt="Gertie Humikowski"
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/170.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Student
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/170"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Goldie
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/180"
+                >
+                  <img
+                    alt="Goldie"
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/180.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Biker
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/180"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Nurse Liz
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/275"
+                >
+                  <img
+                    alt="Nurse Liz"
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/275.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Wagstaff School Nurse
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/275"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Mall Santa
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/280"
+                >
+                  <img
+                    alt="Mall Santa"
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/280.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Santa Performer at OMG Mall
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/280"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Trev
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/483"
+                >
+                  <img
+                    alt="Trev"
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/483.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Bartender at Jimmy Pesto's Pizzeria
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/483"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 300px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            Zander
+          </h2>
+          <div
+            class="content"
+          >
+            <div
+              class="avatar avatar"
+              style="background-color: rgb(97, 218, 251);"
+            >
+              <div
+                class="wrapper"
+              >
+                <a
+                  href="/characters/500"
+                >
+                  <img
+                    alt="Zander"
+                    class="image"
+                    src="https://bobsburgers-api.herokuapp.com/images/characters/500.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+            <p
+              class="info"
+            >
+              Student
+            </p>
+          </div>
+        </div>
+        <a
+          href="/characters/500"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
