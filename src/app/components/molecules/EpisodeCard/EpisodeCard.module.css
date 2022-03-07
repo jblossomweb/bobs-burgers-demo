@@ -1,0 +1,11 @@
+.card {
+  @apply h-40 text-center;
+}
+
+.info {
+  @apply my-2 px-4 h-10 overflow-hidden text-sm;
+}
+
+.button {
+  @apply w-full text-base;
+}

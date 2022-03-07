@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/molecules/EpisodeCard stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    style="width: 400px;"
+  >
+    <div
+      class="card card"
+    >
+      <div
+        class="body"
+      >
+        <h2
+          class="title"
+        >
+          "Burger War"
+        </h2>
+        <div
+          class="content"
+        >
+          <p
+            class="info"
+          >
+            April 10, 2011
+          </p>
+        </div>
+      </div>
+      <a
+        href="/episodes/10"
+      >
+        <button
+          class="button button"
+          type="button"
+        >
+          Details...
+        </button>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
