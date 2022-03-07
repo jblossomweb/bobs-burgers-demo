@@ -1,0 +1,23 @@
+.content {
+  @apply w-full;
+}
+
+.content h1 {
+  @apply text-4xl font-bold mb-4;
+}
+
+.content h2 {
+  @apply text-2xl font-bold my-4;
+}
+
+.content p {
+  @apply my-2 text-base;
+}
+
+.content ul {
+  @apply my-2 text-base;
+}
+
+.links {
+  @apply my-8;
+}

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/organisms/EpisodeDetails stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="content"
+  >
+    <h1>
+      "Burger War"
+    </h1>
+    <h3>
+      S1E10
+    </h3>
+    <p>
+      April 10, 2011
+    </p>
+    <ul>
+      <li>
+        Production Code: 1ASA03
+      </li>
+      <li>
+        Total Viewers: 4.00 Million
+      </li>
+    </ul>
+    <div
+      class="links"
+    >
+      <a
+        href="/episodes"
+      >
+        <button
+          class="button hollow"
+          type="button"
+        >
+          &lt; All Episodes
+        </button>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
