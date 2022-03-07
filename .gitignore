@@ -8,8 +8,13 @@
 # testing
 /coverage
 
-# production
+# production builds
 /build
+/.storybook/build
+
+# deploy cache
+/.firebase
+/.storybook/.firebase
 
 # misc
 .DS_Store

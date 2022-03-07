@@ -7,11 +7,10 @@
     "build": "react-scripts build",
     "lint": "eslint src",
     "test": "react-scripts test",
-    "test:watch": "react-scripts test",
     "test:ci": "CI=true react-scripts test",
     "test:coverage": "react-scripts test --watchAll=false --coverage",
     "storybook": "start-storybook -p 6006 -s public",
-    "storybook:build": "build-storybook -s public"
+    "storybook:build": "build-storybook -s public -o .storybook/build"
   },
   "browserslist": {
     "production": [
