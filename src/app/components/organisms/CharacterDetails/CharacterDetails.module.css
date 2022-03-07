@@ -1,5 +1,8 @@
 .wrapper {
-  @apply w-full flex flex-wrap sm:flex-nowrap flex-row justify-start items-start gap-8;
+  @apply w-full
+    flex flex-wrap sm:flex-nowrap
+    flex-row justify-start items-start gap-8
+    animate-fadein;
 }
 
 .card {
