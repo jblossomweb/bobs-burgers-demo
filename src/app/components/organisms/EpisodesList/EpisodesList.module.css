@@ -1,0 +1,6 @@
+.list {
+  @apply w-full
+    flex flex-wrap flex-row
+    items-center justify-center
+    m-4 gap-4;
+}

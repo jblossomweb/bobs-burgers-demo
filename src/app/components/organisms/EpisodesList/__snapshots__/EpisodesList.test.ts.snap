@@ -1,0 +1,528 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/organisms/EpisodesList stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="list"
+  >
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Human Flesh" (a.k.a. "Pilot")
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              January 9, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/1"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Crawl Space"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              January 16, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/2"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Sacred Cow"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              January 23, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/3"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Sexy Dance Fighting"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              February 13, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/4"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Hamburger Dinner Theater"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              February 20, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/5"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Sheesh! Cab, Bob?"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              March 6, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/6"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Bed & Breakfast"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              March 13, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/7"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Art Crawl"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              March 20, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/8"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Spaghetti Western and Meatballs"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              March 27, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/9"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Burger War"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              April 10, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/10"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Weekend at Mort's"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              May 8, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/11"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Lobsterfest"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              May 15, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/12"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "Torpedo"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              May 22, 2011
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/13"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+    <div
+      class="container"
+      style="width: 400px;"
+    >
+      <div
+        class="card card"
+      >
+        <div
+          class="body"
+        >
+          <h2
+            class="title"
+          >
+            "The Belchies"
+          </h2>
+          <div
+            class="content"
+          >
+            <p
+              class="info"
+            >
+              March 11, 2012
+            </p>
+          </div>
+        </div>
+        <a
+          href="/episodes/14"
+        >
+          <button
+            class="button button"
+            type="button"
+          >
+            Details...
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
