@@ -1,0 +1,292 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app/components/organisms/CharacterDetails stories Relatives matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="wrapper"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="card card"
+      >
+        <img
+          alt="Robert \\"Bob\\" Belcher, Jr."
+          class="image"
+          src="https://bobsburgers-api.herokuapp.com/images/characters/47.jpg"
+        />
+      </div>
+    </div>
+    <div
+      class="content"
+    >
+      <h1>
+        Robert "Bob" Belcher, Jr.
+      </h1>
+      <p>
+        Chef/owner and operator of Bob's Burgers
+      </p>
+      <ul>
+        <li>
+          First Episode: "Human Flesh"
+        </li>
+        <li>
+          Voiced By: H. Jon Benjamin
+        </li>
+        <li>
+          Gender: Male
+        </li>
+        <li>
+          Age: 46
+        </li>
+      </ul>
+      <div>
+        <h2>
+          Related Characters:
+        </h2>
+        <div
+          class="related"
+        >
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/5"
+              >
+                <img
+                  alt="Al"
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/5.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/45"
+              >
+                <img
+                  alt="Robert \\"Big Bob\\" Belcher, Sr."
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/45.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/169"
+              >
+                <img
+                  alt="Gerald G. Garrison"
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/169.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/170"
+              >
+                <img
+                  alt="Gertie Humikowski"
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/170.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/180"
+              >
+                <img
+                  alt="Goldie"
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/180.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/275"
+              >
+                <img
+                  alt="Nurse Liz"
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/275.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/280"
+              >
+                <img
+                  alt="Mall Santa"
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/280.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/483"
+              >
+                <img
+                  alt="Trev"
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/483.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            class="avatar avatar"
+            style="background-color: rgb(97, 218, 251);"
+          >
+            <div
+              class="wrapper"
+            >
+              <a
+                href="/characters/500"
+              >
+                <img
+                  alt="Zander"
+                  class="image"
+                  src="https://bobsburgers-api.herokuapp.com/images/characters/500.jpg"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="links"
+      >
+        <a
+          href="/characters"
+        >
+          <button
+            class="button hollow"
+            type="button"
+          >
+            &lt; All Characters
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`app/components/organisms/CharacterDetails stories Sample matches markup snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="wrapper"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="card card"
+      >
+        <img
+          alt="Robert \\"Bob\\" Belcher, Jr."
+          class="image"
+          src="https://bobsburgers-api.herokuapp.com/images/characters/47.jpg"
+        />
+      </div>
+    </div>
+    <div
+      class="content"
+    >
+      <h1>
+        Robert "Bob" Belcher, Jr.
+      </h1>
+      <p>
+        Chef/owner and operator of Bob's Burgers
+      </p>
+      <ul>
+        <li>
+          First Episode: "Human Flesh"
+        </li>
+        <li>
+          Voiced By: H. Jon Benjamin
+        </li>
+        <li>
+          Gender: Male
+        </li>
+        <li>
+          Age: 46
+        </li>
+      </ul>
+      <div
+        class="links"
+      >
+        <a
+          href="/characters"
+        >
+          <button
+            class="button hollow"
+            type="button"
+          >
+            &lt; All Characters
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
